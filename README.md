@@ -1,2 +1,2 @@
 # Electronics-Calculator
-As I am an Electronics Engineering Student, I am required to perform a considerable amount of calculations on a daily basis and as a result have to remember alot of formulas. So I decided to
+As I am an Electronics Engineering Student, I am required to perform a considerable amount of calculations on a daily basis and as a result, I find myself remembering alot of formulas. So I decided to begin writing a python program that will act as a specialised calculator for electronics calculations. It will be equipped with a GUI (Graphical User Interface) created using pythons tkinter library.
